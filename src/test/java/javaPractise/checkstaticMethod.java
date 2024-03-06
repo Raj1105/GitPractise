@@ -35,6 +35,10 @@ public class checkstaticMethod {
 	public static void number8() {
 		System.out.print("cMasterbranchupdate3update in master branch");
 	}
+	
+	public static void developBranchCode() {
+		System.out.print("develop branch code need to be merged");
+	}
 
 		
 
